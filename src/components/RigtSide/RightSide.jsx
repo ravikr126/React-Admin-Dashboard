@@ -7,13 +7,10 @@ const RightSide = () => {
   return (
     <div className="RightSide">
       <div>
-        <h3>Today's Schedule</h3>
+        <h3>Customers </h3>
+        <h5>Customers that buy products</h5>
         <Updates />
       </div>
-      {/* <div>
-        <h3>Customer Review</h3>
-        <CustomerReview />
-      </div> */}
     </div>
   );
 };
